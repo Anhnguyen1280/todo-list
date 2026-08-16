@@ -7,6 +7,15 @@ The application helps users create, organize, search, filter, and manage daily t
 ## Live Demo
 
 [View the live website](https://anhnguyen1280.github.io/todo-list/)
+## Screenshots
+
+### Light Mode
+
+![Todo List Light Mode](images/light mode.png)
+
+### Dark Mode
+
+![Todo List Dark Mode](images/dark mode.png)
 
 ## Features
 
