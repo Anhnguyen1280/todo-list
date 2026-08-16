@@ -11,11 +11,10 @@ The application helps users create, organize, search, filter, and manage daily t
 
 ### Light Mode
 
-![Todo List Light Mode](images/light-mode.png)
-
+![Todo List Light Mode](images/light%20mode.png)
 ### Dark Mode
 
-![Todo List Dark Mode](images/dark-mode.png)
+![Todo List Dark Mode](images/dark%20mode.png)
 
 ## Features
 
@@ -54,3 +53,4 @@ todo-list/
 ├── js/
 │   └── app.js
 └── README.md
+```
