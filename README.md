@@ -15,6 +15,7 @@ The application helps users create, organize, search, filter, and manage daily t
 ### Dark Mode
 
 ![Todo List Dark Mode](images/dark%20mode.png)
+
 ## Features
 
 - Add new tasks
@@ -52,3 +53,4 @@ todo-list/
 ├── js/
 │   └── app.js
 └── README.md
+```
