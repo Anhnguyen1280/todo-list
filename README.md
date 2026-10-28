@@ -12,11 +12,11 @@
 
 ### ライトモード
 
-![ライトモードの画面](images/light%20mode.png)
+![ライトモードの画面](images/light-mode.png)
 
 ### ダークモード
 
-![ダークモードの画面](images/dark%20mode.png)
+![ダークモードの画面](images/dark-mode.png)
 
 ## 主な機能
 
